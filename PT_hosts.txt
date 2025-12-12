@@ -1,3 +1,4 @@
 # LINE
 127.0.0.1 ad.line-scdn.net
 127.0.0.1 legy.line-apps.com
+127.0.0.1 legy-backup.line-apps.com
