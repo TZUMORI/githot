@@ -1,4 +1,4 @@
 # LINE
-127.0.0.1 ad.line-scdn.net
+127.0.0.1 ad.line-scdn.net # main ad block
 127.0.0.1 voom-assets.line-scdn.net
 127.0.0.1 vos.line-scdn.net
