@@ -7,4 +7,4 @@
 127.0.0.1 lap-click.tr.line.me
 127.0.0.1 liffsdk.line-scdn.net
 127.0.0.1 static.line-scdn.net
-#127.0.0.1 stickershop.line-scdn.net
+# stickershop.line-scdn.net //about sticker ad & sticker messages
