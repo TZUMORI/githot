@@ -1,10 +1,10 @@
 # LINE
 127.0.0.1 ad.line-scdn.net # main ad block
-127.0.0.1 voom-assets.line-scdn.net
+# 127.0.0.1 voom-assets.line-scdn.net
 127.0.0.1 graph.facebook.com
 127.0.0.1 adfeedback-t.line-website.com
 127.0.0.1 a.line.me
-127.0.0.1 lap-click.tr.line.me
-127.0.0.1 liffsdk.line-scdn.net
+# 127.0.0.1 lap-click.tr.line.me
+# 127.0.0.1 liffsdk.line-scdn.net
 # 127.0.0.1 static.line-scdn.net
 # stickershop.line-scdn.net /about sticker ad & sticker messages
