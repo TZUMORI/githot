@@ -1,3 +1,6 @@
+# Adway
+127.0.0.1 app.adaway.org
+
 # LINE
 127.0.0.1 ad.line-scdn.net # main ad block
 127.0.0.1 graph.facebook.com
@@ -9,5 +12,3 @@
 # 127.0.0.1 static.line-scdn.net
 # stickershop.line-scdn.net /about sticker ad & sticker messages
 
-# Adway
-127.0.0.1 app.adaway.org
