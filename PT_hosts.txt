@@ -2,7 +2,7 @@
 127.0.0.1 app.adaway.org
 
 # LINE
-127.0.0.1 ad.line-scdn.net # main ad block
+127.0.0.1 ad.line-scdn.net # confirmed Ad domain
 127.0.0.1 graph.facebook.com
 127.0.0.1 adfeedback-t.line-website.com
 127.0.0.1 a.line.me
